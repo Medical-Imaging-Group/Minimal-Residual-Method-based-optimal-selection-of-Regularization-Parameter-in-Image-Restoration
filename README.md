@@ -8,7 +8,7 @@
 
  Program for MRM based restoration : RegualrizedMinResidualMtdver_restore.m
 
-This Matlab code is used as part of the work presented in:
+This **Matlab** code is used as part of the work presented in:
 
 Yamuna N. Swamy and Phaneendra K. Yalavarthy
 
