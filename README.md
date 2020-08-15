@@ -2,7 +2,7 @@
 
 **Matlab Codes** : (Requires [HNO.zip](http://www2.imm.dtu.dk/~pcha/HNO/) Courtesy : [Prof. P. C. Hansen](http://www2.imm.dtu.dk/~pcha/))
 
-# Program for image restoration : image_restore.m (requires 'colvolve2.m' and 'exindex.m'
+**Program for image restoration : image_restore.m (requires 'colvolve2.m' and 'exindex.m'**
 
  - Program to find the lambdaMRM :  RegualrizedMinResidualMtd_alpha.m
  
