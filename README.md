@@ -4,9 +4,9 @@
 
 # Program for image restoration : image_restore.m (requires 'colvolve2.m' and 'exindex.m'
 
- -- Program to find the lambdaMRM :  RegualrizedMinResidualMtd_alpha.m
+ - Program to find the lambdaMRM :  RegualrizedMinResidualMtd_alpha.m
  
- -- Program for MRM based restoration : RegualrizedMinResidualMtdver_restore.m
+ - Program for MRM based restoration : RegualrizedMinResidualMtdver_restore.m
 
 This **Matlab** code is used as part of the work presented in:
 
